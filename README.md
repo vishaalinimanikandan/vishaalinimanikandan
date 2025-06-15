@@ -94,8 +94,16 @@ Placement & Event Coordination | Public Speaking | Presentation Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaalinimanikandan&layout=compact&theme=radical)
 
 
-
 ---
+
+📝 My Articles on Medium
+
+I occasionally write about machine learning, AI, and data science on Medium.  
+Check out my latest thoughts and tutorials here:
+
+🔗 [https://medium.com/@vishaalini70](https://medium.com/@your-medium-handle)
+
+[![Medium](https://img.shields.io/badge/Medium-View_My_Blog-black?logo=medium)](https://medium.com/@your-medium-handle)
 
 🤝 Let's Connect
 
