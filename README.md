@@ -93,7 +93,6 @@ Placement & Event Coordination | Public Speaking | Presentation Skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaalinimanikandan&layout=compact&theme=radical)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=vishaalinimanikandan&theme=radical)
 
 
 ---
